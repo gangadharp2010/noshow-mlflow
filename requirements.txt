@@ -1,0 +1,7 @@
+# Exact pins for the two libraries whose changes break saved models and stores.
+mlflow==3.16.1
+scikit-learn==1.9.1
+
+# Floors only.
+optuna>=4.0
+pandas>=2.2
